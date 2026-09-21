@@ -1,10 +1,19 @@
-[English](#english) | [Русский](#russian)
-
-<a id="english"></a>
+<div align="center">
 
 # Rental Search Automation
 
-Rental Search Automation is a configurable browser-assisted workflow for collecting, normalizing, filtering and exporting long-term rental listings.
+**Browser-assisted rental search with configurable filters, map-aware workflows, resilient source handling, and HTML/Excel exports.**
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-browser%20automation-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-interface-009688?style=flat-square&logo=fastapi&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+
+[English](#english) · [Русский](#russian) · [Installation](#installation) · [Configuration](#configuration) · [Usage](#usage)
+
+</div>
+
+<a id="english"></a>
 
 ## Features
 
