@@ -8,6 +8,8 @@
 
 **Browser-assisted rental search with configurable filters, map-aware workflows, resilient source handling, and HTML/Excel exports.**
 
+[![CI](https://github.com/mikhail494/rental-search-automation/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/mikhail494/rental-search-automation/actions/workflows/ci.yml)
+[![Latest Release](https://img.shields.io/github/v/release/mikhail494/rental-search-automation?style=flat-square)](https://github.com/mikhail494/rental-search-automation/releases/latest)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-browser%20automation-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-interface-009688?style=flat-square&logo=fastapi&logoColor=white)
