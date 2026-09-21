@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/hero.svg" alt="Rental Search Automation" width="100%" />
+</p>
+
 <div align="center">
 
 # Rental Search Automation
